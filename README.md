@@ -1,4 +1,4 @@
 # world-statistics
-A final project for a statistics class using R to analyze the development of countries. In this project, a variety of statistical methods were used. Many variables were log transformed to normalize the data. A t-test and a corresponding bootstrap was used to test whether or not being an urbanized nation had a significant impact on GDP per capita. A nonparametric permutation test was used to to test the impact of exports on GDP per capita, as some of the most successful nations like Japan and South Korea grew based on export-oriented industrialization. Lastly, a general linear model with backwards stepwise regression was used to create the final predictive model.
+A final project for a statistics class using R to analyze the development of countries. Used nonparametric tests, boostrapping, and a general linear model. 
 
 A link to the final R markdown can be found [here](https://drive.google.com/file/d/1nS3Krw5beoDfl7ddncDHYeL9MmTPwxwK/view?usp=sharing).
